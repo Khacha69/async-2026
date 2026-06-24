@@ -11,4 +11,4 @@ def main():
 
 # สั่งให้โปรแกรมทำงาน
 if __name__ == "__main__":
-    main()    
+    main()
