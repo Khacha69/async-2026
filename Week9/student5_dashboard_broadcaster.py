@@ -3,9 +3,9 @@ import json
 import redis.asyncio as redis
 
 # ⚙️ CONFIGURATION
-REDIS_HOST = 'localhost'
+REDIS_HOST = '172.16.46.79'
 GROUP_ID = 'g01'
-STUDENT_ID = '66010005'
+STUDENT_ID = '6710301054'
 
 STREAM_KEY = f"f1:telemetry:{GROUP_ID}"
 GROUP_NAME = "f1_pitwall"
